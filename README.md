@@ -11,3 +11,9 @@
 9) The final output is hourly datetime with averages 5, 20, 50 and 100cm soil moisture observed data.
 
 
+
+
+
+
+
+Acknowledging the assistance of Dr. Sriram Subramanian for building the script
