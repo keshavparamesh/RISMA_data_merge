@@ -6,7 +6,7 @@
 4) The resampling command fills all the missing data with values from the previous rows,
 5) Since the resampled data is done hourly, all the 15, 30, 45minute data are removed and only hourly data are retained
 6) It removes any duplicate dates and removes negative value
-7) It provides average of 3 sesnors each for 5, 20, 50 and 100cm depth soil moisture data
+7) It provides average of 3 sensors each for 5, 20, 50 and 100cm depth soil moisture data
 8) Finally it removes hourly data for October - Feburary months from particular range of years
 9) The final output is hourly datetime with averages 5, 20, 50 and 100cm soil moisture observed data.
 
